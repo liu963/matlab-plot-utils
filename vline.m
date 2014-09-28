@@ -2,6 +2,11 @@ function h = vline(x,style,linewidth)
 % vline(x,style,linewidth)
 %
 % Plot vertical line at x
+% Inputs: 
+%   x = scalar or vector of x-values
+%   style = string, e.g., '--k' for plot style       
+%
+% Andreas Mavrommatis 2013
 %
 % APM 2013
 
